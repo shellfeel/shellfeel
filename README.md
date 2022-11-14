@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning java/go/intranet security
 - 📫 How to reach me :
 - blog： https://www.cnblogs.com/9eek/
-- wx ： 硬核安全
+- 微信公众号 ： 硬核安全
